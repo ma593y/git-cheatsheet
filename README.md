@@ -1,2 +1,2 @@
 # Git-Practice-Repo
-A git repo for practice.
+A git cheatsheet and practice repo.
