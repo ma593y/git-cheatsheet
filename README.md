@@ -15,7 +15,7 @@ Git is a free and open source version control system for codebases. It's a tool 
 		# Initialize a local repo
 		git init <directory>
 		
-		AND
+		# AND
 		
 		# Add the remote repo to the local repo
 		git remote add origin [url]
@@ -110,7 +110,7 @@ Git is a free and open source version control system for codebases. It's a tool 
 	# Fetch and merge any commits from the tracking remote branch
 	git pull
 	
-	
+	# 
 	git pull [branch_name] [remote_URL/remote_name]
 
 #### Commands to Rewrite History:
