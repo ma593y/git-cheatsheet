@@ -29,7 +29,10 @@ Git is a free and open source version control system for codebases. It's a tool 
 	# List all local branches and current one with * sign
 	git branch
 
-	# List all remote or local branches and current one with * sign
+	# List all remote branches
+	git branch -r
+
+	# List all remote and local branches
 	git branch -a
 
 	# Create a new branch
