@@ -1,5 +1,5 @@
-# Git-Cheatsheet-And-Practice-Repo
-Git is a free and open source version control system for codebases. It's a tool that helps you manage your codebases and lets you collaborate in a very simple and easy way. It is being used by almost everyone in the software industry and it's one of the essential skill that is required for the relevant roles. I'm sharing a cheatsheet for the most important and commomly used Git commands for you to learn and practice it.
+# Git-Cheatsheet
+Git is a free and open source version control system for codebases. It's a tool that helps you manage your codebases and lets you collaborate in a very simple and easy way. It is being used by almost everyone in the software industry and it's one of the essential skill that is required for the relevant roles. I'm sharing a git cheatsheet for the most important and commomly used commands for you to learn and practice it.
 
 #### Commands for Git Configuration:
 	
